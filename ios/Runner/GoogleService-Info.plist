@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>398453157808-t34meh7ipsmcq2527k5mndflgvlg4lea.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.398453157808-t34meh7ipsmcq2527k5mndflgvlg4lea</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>398453157808-lg5u44ioth72qp1i2j19hvctm2irge0k.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEo5hgYDy5V06TdP6pJWPqdus87rOKdEk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>398453157808</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.windsoranalytics.becomebetter</string>
+	<key>PROJECT_ID</key>
+	<string>login-k3g6bm</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-k3g6bm.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:398453157808:ios:18de054791c5ea2ac9b075</string>
+</dict>
+</plist>
